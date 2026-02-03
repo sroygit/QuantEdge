@@ -1,0 +1,12 @@
+{"stocks": [
+    {
+        "ticker": "APPLE",
+        "numberOfShares": 49,
+        "averagePrice": 8
+    },
+    {
+        "ticker": "MSFT",
+        "numberOfShares": 20,
+        "averagePrice": 15
+    }
+]}
