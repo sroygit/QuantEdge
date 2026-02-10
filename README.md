@@ -30,7 +30,7 @@ As a user, I should be able to select a specific stock from my portfolio and vie
 As a user, I should be able to sell any number of shares from a particular stock in my portfolio, and my portfolio should update to reflect the sale and remaining shares.
 
 
-#### *Phase Two*:
+### *Phase Two*:
 
 - **Save Portfolio to a file:**
 As a user, when I 'quit' the application, I would like the option to save my Portfolio to a file. This save would include all my stocks, along with all the information about the stocks such as Average price. 
